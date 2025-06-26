@@ -1,2 +1,4 @@
 # Nothing-XPC
 A Rust based Nothing X app port for PC
+
+# PROJECT GOT DELAYED CUZ GTK CAUSED ME TO LOSE MY COMPOSURE
